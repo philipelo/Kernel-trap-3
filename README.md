@@ -1,5 +1,5 @@
 
-# 🔒 Linux Kernel Trap: Armadilha Invisível no Núcleo
+# 🔒 Linux Kernel Trap: Armadilha Invisível no Núcleo 3
 
 Monitoramento passivo e avançado diretamente no kernel do Linux, com foco em detectar técnicas de evasão e execução escondida. Este projeto simula uma estratégia real de elite para defesa digital silenciosa, sendo altamente furtivo e sem alertas visíveis ao atacante.
 
